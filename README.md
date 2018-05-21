@@ -6,12 +6,11 @@ To contribute to an agile team focused on developing responsive web applications
 
 ## Experience
 ### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)), 2015 - May 2018
-- Developed UI components leveraging AngularJS, ReactJS, d3, HTML5, CSS3 via Sass, & ui-router.
+- Developed UI components leveraging AngularJS (2/4/5, 1.x), d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
 - Architected & documented client unit test framework in Jasmine with Promises, contributing publicly to [remap-istanbul](https://github.com/SitePen/remap-istanbul) enabling coverage reporting with Grunt.
 - Conferred with design & API teams to evaluate implementation tradeoffs for delivery and maintainability across stack.
-- Configured Jenkins Selenium regression framework leveraging full stack Dockerized containers.
 - Created complex DOM mouse handling behavior across overlayed elements.
 - Reviewed domestic and international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
 
