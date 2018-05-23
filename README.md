@@ -9,7 +9,7 @@ To contribute to an agile team focused on developing responsive web applications
 - Developed UI components leveraging AngularJS (2/4/5, 1.x), d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
-- Architected & documented client unit test framework in Jasmine with Promises, contributing publicly to [remap-istanbul](https://github.com/SitePen/remap-istanbul) enabling coverage reporting with Grunt.
+- Structured & documented client unit test framework in Jasmine with Promises, contributing publicly to [remap-istanbul](https://github.com/SitePen/remap-istanbul) enabling coverage reporting with Grunt.
 - Conferred with design & API teams to evaluate implementation tradeoffs for delivery and maintainability across stack.
 - Created complex DOM mouse handling behavior across overlayed elements.
 - Reviewed domestic and international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
@@ -53,6 +53,8 @@ To contribute to an agile team focused on developing responsive web applications
 | PHP              |                        | Twitter Bootstrap |                      |
 | C/C++            |                        | Fontello          |                      |
 
+
+
 | Servers           | Data        | Tools          | Methodology
 | -------           | ---         | ----           | -------
 | __Node.js__       | __JSON__    | __git__        | __Agile__
@@ -75,7 +77,7 @@ To contribute to an agile team focused on developing responsive web applications
 The MIT License (MIT)
 =====================
 
-Copyright © `2017` `Eliot Baker`
+Copyright © `2018` `Eliot Baker`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
