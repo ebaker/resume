@@ -2,17 +2,28 @@
 [eliotbaker.com](http://eliotbaker.com) • [github.com/ebaker](http://github.com/ebaker) • [eliot.resume@gmail.com](mailto:eliot.resume@gmail.com)
 
 ## Objective
-To contribute to an agile team focused on developing responsive web applications utilizing the latest HTML5, CSS3, and JavaScript technologies.
+To contribute to an agile team focused on developing responsive web applications utilizing the latest JavaScript, HTML, & CSS technologies.
 
 ## Experience
-### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)), 2015 - May 2018
+
+### Senior UI Software Engineer ([Yara, Inc.](http://www.yara.com/)), 2018 - Present
+
+- Developed features leveraging Next.js, React (with Hooks), GraphQL, HTML5, CSS3 via `styled-components`, & Express.js.
+- Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 6 languages across 5 countries processing 2 types of payment methods with Zuora & Adyen.
+- Collaborated with API engineers & design to evaluate implementation tradeoffs for delivery and maintainability of features across the stack.
+- Defined process around sprint planning, organization, & releases in collaboration for team of 4 engineers with asynchronous standups.
+- Reviewed domestic & international team code submissions while collaborating on best coding practices.
+- Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
+- Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
+
+### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)), 2015 - 2018
 - Developed UI components leveraging AngularJS (2/4/5, 1.x), d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
 - Architected & documented client unit test framework in Jasmine with Promises, contributing publicly to [remap-istanbul](https://github.com/SitePen/remap-istanbul) enabling coverage reporting with Grunt.
-- Conferred with design & API teams to evaluate implementation tradeoffs for delivery and maintainability across stack.
+- Collaborated with design & API teams to evaluate implementation tradeoffs for delivery and maintainability across stack.
 - Created complex DOM mouse handling behavior across overlayed elements.
-- Reviewed domestic and international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
+- Reviewed domestic & international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
 
 ### Software Engineer (LessThan3 now [Maestro](http://maestro.io)), 2013 - 2014, San Francisco, CA
  - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, and jQuery.
@@ -44,14 +55,15 @@ To contribute to an agile team focused on developing responsive web applications
 # Skills & Technology
 | Languages        | Frameworks             | HTML/CSS          | Libraries            |
 | ------------     | ----------------       | ----------        | ----------           |
-| __JavaScript__   | __Angular (2/4/5)__    | __CSS3__          | __Underscore.js__    |
-| __TypeScript__   | __ReactJS__            | __PostCSS__       | __jQuery & plugins__ |
-| __CoffeeScript__ | __AngularJS (1.x)__    | __SASS__          | Sortable             |
-| __CSS3__         | __Express__            | __Stylus__        |                      |
-| __HTML5__        | Bootstrip.js           | __JSX__           |                      |
-| Python           | Socket.IO              | __Jade__          |                      |
-| PHP              |                        | Twitter Bootstrap |                      |
+| __JavaScript__   | __ReactJS__            | __CSS3__          | __axios__            |
+| __TypeScript__   | __Next.js__             | __PostCSS__      | __react-intl__       |
+| __HTML5__        | __Express__            | __SASS__          | Underscore.js        |
+| __CSS3__         | AngularJS (2/4/5)      | __Stylus__        | Storybook            |
+| __CoffeeScript__ | Angular (1.x)          | __JSX__           | jQuery & plugins     |
+| Python           | Bootstrap              | Jade              | Sortable             |
+| PHP              | Socket.IO              | Material-UI       |                      |
 | C/C++            |                        | Fontello          |                      |
+|                  |                        | Bootstrap         |                      |
 
 | Servers           | Data        | Tools          | Methodology
 | -------           | ---         | ----           | -------
@@ -63,38 +75,35 @@ To contribute to an agile team focused on developing responsive web applications
 |                   | SQLite      | __gulp__       | __AJAX__
 |                   | Riak        | __grunt__      |__REST__
 |                   |             | babel          | SOAP
-|                   |             | __vim__        | __MVC__
+|                   |             | vim            | __MVC__
 |                   |             | emacs          | __ComponentJS__
 
 # Activities
- - Angular.js Meetup, 2015 - Present
  - ReactJS Meetup, 2015 - Present
  - Node.js Meetup, 2013 - Present
+ - Angular.js Meetup, 2015 - 2018
  - JavaScript Developers Meetup, 2013
 
 The MIT License (MIT)
 =====================
 
-Copyright © `2017` `Eliot Baker`
+Copyright © `2020` `Eliot Baker`
 
 Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
+obtaining a copy of this resume and associated documentation
+files (the "Resume"), to deal in the Resume without
 restriction, including without limitation the rights to use,
 copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
+copies of the Resume, and to permit persons to whom the
+Resume is furnished to do so, subject to the following
 conditions:
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+THE RESUME IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
 OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+FROM, OUT OF OR IN CONNECTION WITH THE RESUME OR THE USE OR
+OTHER DEALINGS IN THE RESUME.
 
