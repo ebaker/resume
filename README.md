@@ -10,7 +10,7 @@ To contribute to an agile team focused on developing responsive web applications
 
 - Developed features leveraging Next.js, React (with Hooks), GraphQL, HTML5, CSS3 via `styled-components`, & Express.js.
 - Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 6 languages across 5 countries processing 2 types of payment methods with Zuora & Adyen.
-- Collaborated with API engineers & design to evaluate implementation tradeoffs for delivery and maintainability of features across the stack.
+- Collaborated with API engineers & design to evaluate implementation trade-offs for delivery and maintainability of features across the stack.
 - Defined process around sprint planning, organization, & releases in collaboration for team of 4 engineers with asynchronous standups.
 - Reviewed domestic & international team code submissions while collaborating on best coding practices.
 - Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
