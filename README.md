@@ -6,7 +6,7 @@ To contribute to an agile team focused on developing responsive web applications
 
 ## Experience
 
-### Senior UI Software Engineer ([Yara, Inc.](http://www.yara.com/)), 2018 - Present
+### Senior UI Software Engineer &nbsp;/&nbsp; [Yara, Inc.](http://www.yara.com/) <span style="float: right;">San Francisco &nbsp;&nbsp;&nbsp;&nbsp; 2018 - Present</span>
 > Yara Digital Farming is a division that develops software to help farmers & agriculture
 
 - Developed features leveraging Next.js, React (with Hooks), GraphQL, HTML5, CSS3 via `styled-components`, & Express.js.
@@ -17,7 +17,9 @@ To contribute to an agile team focused on developing responsive web applications
 - Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
 - Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
 
-### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)), 2015 - 2018
+### UI Software Engineer &nbsp;/&nbsp; [OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com) <span style="float: right;">San Francisco &nbsp;&nbsp;&nbsp;&nbsp; 2015 - 2018</span>
+> Opsclarity provided a performance monitoring & visualization solution that was aquired by Lightbend laying the ground work for Lightbend Console which provides out-of-the-box observability for Scala Lightbend Platform applications running on kubernetes.
+
 - Developed UI components leveraging AngularJS (2/4/5, 1.x), d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
@@ -26,8 +28,8 @@ To contribute to an agile team focused on developing responsive web applications
 - Created complex DOM mouse handling behavior across overlayed elements.
 - Reviewed domestic & international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
 
-### Software Engineer (LessThan3 now [Maestro](http://maestro.io)), 2013 - 2014, San Francisco, CA
-> Maestro provides a SasS product focused on creating interactive live streams for businesses
+### Software Engineer (LessThan3 now [Maestro](http://maestro.io)), San Francisco, 2013 - 2014
+> Maestro provides a SasS solution focused on creating interactive live streams for businesses
 
  - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, and jQuery.
  - Leveraged third party API's including Instagram, Twitter, Youtube, Soundcloud, and Facebook.
@@ -58,9 +60,9 @@ HTML5|Express|styled-components|react-intl|Linux(Debian)|AJAX|webpack
 CSS3|AngularJS (2/4/5)|PostCSS|Underscore.js|FreeBSD|REST|babel
 CoffeeScript|Angular (1.x)|SASS|Storybook|nginx|WebSockets|jest
 Python|Bootstrap|Stylus|jQuery & plugins| |MongoDB|cypress
- |Socket.IO|JSX|Sortable| |MySQL|CircleCI
- |Redux|Material-UI| | |Redis|vim
- |MVC|Fontello| | | |emacs
+ |Socket.IO|JSX|Sortable| | |MySQL|CircleCI
+ |Redux|Material-UI| | | |Redis|vim
+ |MVC|Fontello| | | | |emacs
 
 # Activities
  - ReactJS Meetup, 2015 - Present
