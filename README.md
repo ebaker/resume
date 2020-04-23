@@ -6,7 +6,7 @@ To contribute to an agile team focused on developing responsive web applications
 
 ## Experience
 
-### Senior UI Software Engineer &nbsp;/&nbsp; [Yara, Inc.](http://www.yara.com/) <span style="float: right;">San Francisco &nbsp;&nbsp;&nbsp;&nbsp; 2018 - Present</span>
+### Senior UI Software Engineer &nbsp;/&nbsp; [Yara, Inc.](http://www.yara.com/) <span align="right">San Francisco &nbsp;&nbsp;&nbsp;&nbsp; 2018 - Present</span>
 > Yara Digital Farming is a division that develops software to help farmers & agriculture
 
 - Developed features leveraging Next.js, React (with Hooks), GraphQL, HTML5, CSS3 via `styled-components`, & Express.js.
