@@ -7,6 +7,7 @@ To contribute to an agile team focused on developing responsive web applications
 ## Experience
 
 ### Senior UI Software Engineer ([Yara, Inc.](http://www.yara.com/)), 2018 - Present
+> Yara Digital Farming is a division that develops software to help farmers & agriculture
 
 - Developed features leveraging Next.js, React (with Hooks), GraphQL, HTML5, CSS3 via `styled-components`, & Express.js.
 - Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 6 languages across 5 countries processing 2 types of payment methods with Zuora & Adyen.
@@ -26,18 +27,14 @@ To contribute to an agile team focused on developing responsive web applications
 - Reviewed domestic & international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
 
 ### Software Engineer (LessThan3 now [Maestro](http://maestro.io)), 2013 - 2014, San Francisco, CA
+> Maestro provides a SasS product focused on creating interactive live streams for businesses
+
  - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, and jQuery.
  - Leveraged third party API's including Instagram, Twitter, Youtube, Soundcloud, and Facebook.
  - Built back-end interfaces using Node.js, Express, MongoDB, and Firebase.
  - Reviewed code via Github pull requests with projects managed in Github issues.
  - Contributed to documentation and tutorials for developers on in house framework coding practices.
  - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac Events among others.
-
-### Web Application Consultant, 2013
- - Developed web applications using Twitter Bootstrap along side HTML/CSS with jQuery parsing JSON.
- - Managed code to implement MVC paradigms in a PHP Zend Framework environment versioned by git.
- - Created renderings of data sets in tables using DataTables as well as pie charts with HighCharts and jqPlot.
- - Generated dynamic PDF documents with third party libraries parsing XML input data.
 
 ### Software Engineer ([ColorQuick](http://www.colorquick.com)), 2011 - 2013
  - Developed web interfaces in HTML/CSS/PHP/Python/JavaScript using Twitter Bootstrap and jQuery.
@@ -53,30 +50,17 @@ To contribute to an agile team focused on developing responsive web applications
  - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
 
 # Skills & Technology
-| Languages        | Frameworks             | HTML/CSS          | Libraries            |
-| ------------     | ----------------       | ----------        | ----------           |
-| __JavaScript__   | __ReactJS__            | __CSS3__          | __axios__            |
-| __TypeScript__   | __Next.js__             | __PostCSS__      | __react-intl__       |
-| __HTML5__        | __Express__            | __SASS__          | Underscore.js        |
-| __CSS3__         | AngularJS (2/4/5)      | __Stylus__        | Storybook            |
-| __CoffeeScript__ | Angular (1.x)          | __JSX__           | jQuery & plugins     |
-| Python           | Bootstrap              | Jade              | Sortable             |
-| PHP              | Socket.IO              | Material-UI       |                      |
-| C/C++            |                        | Fontello          |                      |
-|                  |                        | Bootstrap         |                      |
-
-| Servers           | Data        | Tools          | Methodology
-| -------           | ---         | ----           | -------
-| __Node.js__       | __JSON__    | __git__        | __Agile__
-| __Linux(Debian)__ | __MongoDB__ | __npm__        | __HTTP__
-| Linux(CentOS)     | __MySQL__   | __webpack__    | WebSockets
-| FreeBSD           | Redis       | __browserify__ | TCP
-| nginx             | Firebase    | __bower__      | Flux
-|                   | SQLite      | __gulp__       | __AJAX__
-|                   | Riak        | __grunt__      |__REST__
-|                   |             | babel          | SOAP
-|                   |             | vim            | __MVC__
-|                   |             | emacs          | __ComponentJS__
+**Languages**|**Frameworks**|**HTML/CSS**|**Libraries**|**Servers**|**Data**|**Tools**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+JavaScript|ReactJS|CSS3|Google Maps|Node.js|JSON|git
+TypeScript|Next.js|JSX|axios|Docker|GraphQL|npm & yarn
+HTML5|Express|styled-components|react-intl|Linux(Debian)|AJAX|webpack
+CSS3|AngularJS (2/4/5)|PostCSS|Underscore.js|FreeBSD|REST|babel
+CoffeeScript|Angular (1.x)|SASS|Storybook|nginx|WebSockets|jest
+Python|Bootstrap|Stylus|jQuery & plugins| |MongoDB|cypress
+ |Socket.IO|JSX|Sortable| |MySQL|CircleCI
+ |Redux|Material-UI| | |Redis|vim
+ |MVC|Fontello| | | |emacs
 
 # Activities
  - ReactJS Meetup, 2015 - Present
