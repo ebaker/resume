@@ -6,8 +6,8 @@ To contribute to an agile team focused on developing responsive web applications
 
 ## Experience
 
-### Senior UI Software Engineer &nbsp;/&nbsp; [Yara, Inc.](http://www.yara.com/) <span align="right">San Francisco &nbsp;&nbsp;&nbsp;&nbsp; 2018 - Present</span>
-> Yara Digital Farming is a division that develops software to help farmers & agriculture
+### Senior UI Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - Present
+> Yara Digital Farming is a division that develops software to empower farmers & agriculture to optimize farming practices to increase yields, crop quality, & income in a sustainable way.
 
 - Developed features leveraging Next.js, React (with Hooks), GraphQL, HTML5, CSS3 via `styled-components`, & Express.js.
 - Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 6 languages across 5 countries processing 2 types of payment methods with Zuora & Adyen.
@@ -17,36 +17,38 @@ To contribute to an agile team focused on developing responsive web applications
 - Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
 - Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
 
-### UI Software Engineer &nbsp;/&nbsp; [OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com) <span style="float: right;">San Francisco &nbsp;&nbsp;&nbsp;&nbsp; 2015 - 2018</span>
-> Opsclarity provided a performance monitoring & visualization solution that was aquired by Lightbend laying the ground work for Lightbend Console which provides out-of-the-box observability for Scala Lightbend Platform applications running on kubernetes.
+### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
+> Opsclarity provided a performance monitoring & visualization solution that was aquired by Lightbend for [Lightbend Console](https://developer.lightbend.com/docs/console/current/) which provides out-of-the-box observability for Scala Lightbend Platform applications running on kubernetes.
 
 - Developed UI components leveraging AngularJS (2/4/5, 1.x), d3, HTML5, CSS3 via Sass, & ui-router.
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & provisioning dashboards.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
 - Architected & documented client unit test framework in Jasmine with Promises, contributing publicly to [remap-istanbul](https://github.com/SitePen/remap-istanbul) enabling coverage reporting with Grunt.
-- Collaborated with design & API teams to evaluate implementation tradeoffs for delivery and maintainability across stack.
+- Collaborated with design & API teams to evaluate implementation tradeoffs for delivery & maintainability across stack.
 - Created complex DOM mouse handling behavior across overlayed elements.
 - Reviewed domestic & international team code submissions, onboarding engineers with internal client design patterns while collaborating on best coding practices.
 
-### Software Engineer (LessThan3 now [Maestro](http://maestro.io)), San Francisco, 2013 - 2014
+### Software Engineer (LessThan3 now [Maestro](http://maestro.io)) San Francisco, 2013 - 2014
 > Maestro provides a SasS solution focused on creating interactive live streams for businesses
 
- - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, and jQuery.
- - Leveraged third party API's including Instagram, Twitter, Youtube, Soundcloud, and Facebook.
- - Built back-end interfaces using Node.js, Express, MongoDB, and Firebase.
+ - Developed client-side interfaces using CoffeeScript, Backbone.js, Stylus, Teacup, History API, & jQuery.
+ - Leveraged third party API's including Instagram, Twitter, Youtube, Soundcloud, & Facebook.
+ - Built back-end interfaces using Node.js, Express, MongoDB, & Firebase.
  - Reviewed code via Github pull requests with projects managed in Github issues.
- - Contributed to documentation and tutorials for developers on in house framework coding practices.
- - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, and Insomniac Events among others.
+ - Contributed to documentation & tutorials for developers on in house framework coding practices.
+ - Created admin dashboard tools for a live-event CMS used by Ultra Music Festival, EDC, HARD Summer, & Insomniac Events among others.
+
+<ins></ins>
 
 ### Software Engineer ([ColorQuick](http://www.colorquick.com)), 2011 - 2013
- - Developed web interfaces in HTML/CSS/PHP/Python/JavaScript using Twitter Bootstrap and jQuery.
+ - Developed web interfaces in HTML/CSS/PHP/Python/JavaScript using Twitter Bootstrap & jQuery.
  - Adopted REST API paradigm for interfacing in real time with legacy applications over HTTP.
- - Managed servers running mySQL, nginx, and git on CentOS Linux.
+ - Managed servers running mySQL, nginx, & git on CentOS Linux.
 
 ### Freelance Web Developer, 2009 - 2011
  - Developed client websites in HTML/CSS/JavaScript leveraging existing templates.
- - Customized WordPress installation as site and blog with content administration.
- - Configured on page SEO and enabled tracking via Google Analytics.
+ - Customized WordPress installation as site & blog with content administration.
+ - Configured on page SEO & enabled tracking via Google Analytics.
 
 # Education
  - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
@@ -65,10 +67,13 @@ Python|Bootstrap|Stylus|jQuery & plugins| |MongoDB|cypress
  |MVC|Fontello| | | | |emacs
 
 # Activities
+ - Open Source Contibuter ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020 - Present
  - ReactJS Meetup, 2015 - Present
  - Node.js Meetup, 2013 - Present
  - Angular.js Meetup, 2015 - 2018
  - JavaScript Developers Meetup, 2013
+
+<ins></ins>
 
 The MIT License (MIT)
 =====================
