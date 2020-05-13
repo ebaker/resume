@@ -1,5 +1,5 @@
 # Eliot Baker
-[eliotbaker.com](http://eliotbaker.com) • [github.com/ebaker](http://github.com/ebaker) • [eliot.resume@gmail.com](mailto:eliot.resume@gmail.com)
+[eliotbaker.com](https://ebaker.github.io) • [github.com/ebaker](http://github.com/ebaker) • [eliot.resume@gmail.com](mailto:eliot.resume@gmail.com)
 
 ## Objective
 To contribute to an agile team focused on developing responsive web applications utilizing the latest JavaScript, HTML, & CSS technologies.
