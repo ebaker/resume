@@ -6,19 +6,21 @@ To contribute to an agile team focused on developing responsive web applications
 
 ## Experience
 
-### Senior UI Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - Present
+### Senior Frontend Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - 2020
 > Yara Digital Farming is a division that develops software to empower farmers & agriculture to optimize farming practices to increase yields, crop quality, & income in a sustainable way.
 
-- Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 6 languages across 5 countries processing 2 types of payment methods with Zuora & Adyen.
+- Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 7 languages across 5 countries processing 2 types of payment methods leveraging Zuora & Adyen.
 - Developed field boundary creation component with editable field boundary populated from GeoJSON GIS dataset.
 - Collaborated with API engineers & design to evaluate implementation trade-offs for delivery and maintainability of features across the stack.
 - Led the process to define sprint planning, organization, & releases for team of 4 engineers with asynchronous standups.
 - Reviewed domestic & international team code submissions while collaborating on best coding practices.
 - Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
 - Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
-- Developed features leveraging __Next.js__, __React (with Hooks)__, __Google Maps__, __GraphQL__, __HTML__, __CSS__ via __`styled-components`__, & __Express.js__.
+- Created Docker image to migrate backend service previously running on AWS EC2.
+- Created integration tests for platform payments utilizing __Cypress__.
+- Developed features leveraging __Next.js__, __React (with Hooks)__, __Google Maps__, __GraphQL__, __HTML__, __CSS__ via __styled-components__, & __Express.js__.
 
-### UI Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
+### Frontend Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
 > Opsclarity provided a performance monitoring & visualization solution that was aquired by Lightbend for [Lightbend Console](https://developer.lightbend.com/docs/console/current/) which provides out-of-the-box observability for Scala Lightbend Platform applications running on kubernetes.
 
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & dashboard provisioning.
@@ -63,9 +65,9 @@ __HTML5__|__Next.js__|__JSX__|axios|Docker|GraphQL|npm & yarn
 __CSS3__|Express|PostCSS|react-intl|Linux(Debian)|AJAX|webpack
 TypeScript|AngularJS (2/4/5)|Sass|Underscore.js|FreeBSD|REST|babel
 CoffeeScript|Angular (1.x)|Stylus|Storybook|nginx|WebSockets|jest
-Python|Bootstrap|Material-UI|jQuery & plugins| |MongoDB|cypress
-|  |Socket.IO|Fontello|Sortable| |MySQL|CircleCI
-| |Redux|| | |Redis|vim
+Python|Bootstrap|Material-UI|jQuery & plugins| |MongoDB|Cypress
+|  |Socket.IO|Fontello|Sortable| |SQL|CircleCI
+| |Redux|| | | |vim
 | |MVC|| | | |emacs
 
 > Note: Skills & technology in __bold__ indicate higher level of proviciency.
