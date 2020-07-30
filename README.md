@@ -74,10 +74,9 @@ Python|Bootstrap|Material-UI|jQuery & plugins| |MongoDB|Cypress
 
 # Activities
  - Open Source Contibuter ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
- - ReactJS Meetup, 2015 - Present
- - Node.js Meetup, 2013 - Present
+ - ReactJS Meetup, 2015 - 2020
+ - Node.js Meetup, 2013 - 2020
  - Angular.js Meetup, 2015 - 2018
- - JavaScript Developers Meetup, 2013
 
 <ins></ins>
 
