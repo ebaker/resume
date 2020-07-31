@@ -64,11 +64,11 @@ __JavaScript__|__ReactJS__|__styled-components__|Google Maps|Node.js|JSON|git
 __HTML5__|__Next.js__|__JSX__|axios|Docker|GraphQL|npm & yarn
 __CSS3__|Express|PostCSS|react-intl|Linux(Debian)|AJAX|webpack
 TypeScript|AngularJS (2/4/5)|Sass|Underscore.js|FreeBSD|REST|babel
-CoffeeScript|Angular (1.x)|Stylus|Storybook|nginx|WebSockets|jest
-Python|Bootstrap|Material-UI|jQuery & plugins| |MongoDB|Cypress
-|  |Socket.IO|Fontello|Sortable| |SQL|CircleCI
-| |Redux|| | | |vim
-| |MVC|| | | |emacs
+CoffeeScript|Angular (1.x)|Stylus|Redux|nginx|WebSockets|jest
+Python| MVC|Material-UI|jQuery & plugins| |MongoDB|Cypress
+|  ||Fontello|Sortable| |SQL|CircleCI
+| | | |Socket.IO| | |Storybook
+| | | | | | |vim & emacs
 
 > Note: Skills & technology in __bold__ indicate higher level of proviciency.
 
