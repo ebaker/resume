@@ -1,8 +1,8 @@
 # Eliot Baker
-[eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/resume/tree/yara-2020-test-table) • [eliot.resume@gmail.com](mailto:eliot.resume@gmail.com)
+## Senior Front End Engineer
+[eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/resume/tree/yara-2020-test-table) • [contact@eliotbaker.com](mailto:eliot.resume@gmail.com)
 
-## Objective
-To contribute to an agile team focused on developing responsive web applications utilizing the latest JavaScript, HTML, & CSS technologies.
+I enjoy creating responsive web applications with an eye for design. I like drinking Jasmine tea and doing yoga.
 
 ## Experience
 
@@ -55,28 +55,24 @@ To contribute to an agile team focused on developing responsive web applications
  - Configured on page SEO & enabled tracking via Google Analytics.
 
 # Education
- - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
+ - __Bachelors Science Computer Engineering__, Pennsylvania State University, Dean's List, 2009
 
 # Skills & Technology
 **Languages**|**Frameworks**|**Style/Markup**|**Libraries**|**Servers**|**Data**|**Tools**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-__JavaScript__|__ReactJS__|__styled-components__|Google Maps|Node.js|JSON|git
-__HTML5__|__Next.js__|__JSX__|axios|Docker|GraphQL|npm & yarn
-__CSS3__|Express|PostCSS|react-intl|Linux(Debian)|AJAX|webpack
-TypeScript|AngularJS (2/4/5)|Sass|Underscore.js|FreeBSD|REST|babel
-CoffeeScript|Angular (1.x)|Stylus|Redux|nginx|WebSocket|jest
-Python| MVC|Material-UI|jQuery & plugins| |MongoDB|Cypress
+JavaScript|ReactJS|styled-components|Google Maps|Node.js|JSON|git
+HTML5|Next.js|JSX|axios|Docker|GraphQL|npm & yarn
+CSS3|AngularJS|PostCSS|react-intl|Linux(Debian)|AJAX|webpack
+TypeScript|Express|Sass|Underscore.js|FreeBSD|REST|babel
+| | |Stylus|Redux|nginx|WebSocket|jest
+| | |Material-UI|jQuery & plugins| |MongoDB|Cypress
 |  ||Fontello|Sortable| |SQL|CircleCI
 | | | |Socket.IO| | |Storybook
 | | | | | | |vim & emacs
 
-> Note: Skills & technology in __bold__ indicate higher level of proviciency.
-
 # Activities
- - Open Source Contibuter ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
- - ReactJS Meetup, 2015 - 2020
- - Node.js Meetup, 2013 - 2020
- - Angular.js Meetup, 2015 - 2018
+ - Open Source Contibution ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
+
 
 <ins></ins>
 
