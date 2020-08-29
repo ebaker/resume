@@ -1,27 +1,28 @@
 # Eliot Baker
-[eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/resume/tree/yara-2020-test-table) • [eliot.resume@gmail.com](mailto:eliot.resume@gmail.com)
+## Senior Front End Engineer
+JavaScript • React • HTML5 • CSS3
 
-## Objective
-To contribute to an agile team focused on developing responsive web applications utilizing the latest JavaScript, HTML, & CSS technologies.
+[eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/resume/tree/yara-2020-test-table) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
+
+I enjoy creating responsive web applications with an eye for design. You may otherwise find me brewing a cup of tea or stretching out in downward dog.
 
 ## Experience
 
-### Senior Frontend Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - 2020
+### Senior Front End Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - 2020
 > Yara Digital Farming is a division that develops software to empower farmers & agriculture to optimize farming practices to increase yields, crop quality, & income in a sustainable way.
 
-- Delivered mock to feature responsive UI components for Yara platform to enable payments in 2 Yara products with internationalization supporting 7 languages across 5 countries processing 2 types of payment methods leveraging Zuora & Adyen.
+- Delivered mock to feature responsive UI components for payments in 2 Yara products with internationalization supporting 7 languages across 5 countries.
 - Developed field boundary creation component with editable field boundary populated from GeoJSON GIS dataset.
-- Collaborated with API engineers & design to evaluate implementation trade-offs for delivery and maintainability of features across the stack.
 - Led the process to define sprint planning, organization, & releases for team of 4 engineers with asynchronous standups.
 - Reviewed domestic & international team code submissions while collaborating on best coding practices.
-- Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
 - Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
+- Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
 - Created Docker image to migrate backend service previously running on AWS EC2.
 - Created integration tests for platform payments utilizing __Cypress__.
 - Developed features leveraging __Next.js__, __React (with Hooks)__, __Google Maps__, __GraphQL__, __HTML__, __CSS__ via __styled-components__, & __Express.js__.
 
-### Frontend Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
-> Opsclarity provided a performance monitoring & visualization solution that was aquired by Lightbend for [Lightbend Console](https://developer.lightbend.com/docs/console/current/) which provides out-of-the-box observability for Scala Lightbend Platform applications running on kubernetes.
+### Front End Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
+> Lightbend offers [Lightbend Console](https://developer.lightbend.com/docs/console/current/) providing out-of-the-box observability for Scala Lightbend Platform applications on kubernetes.
 
 - Delivered mock to feature signup flow integrating account & session API alongside administrative account management & dashboard provisioning.
 - Diagnosed & debugged root cause of client side resource issues by optimizing algorithm performance for scale.
@@ -55,28 +56,21 @@ To contribute to an agile team focused on developing responsive web applications
  - Configured on page SEO & enabled tracking via Google Analytics.
 
 # Education
- - __B.S. Computer Engineering__, Pennsylvania State University, Dean's List, 2009
+ - __Bachelor of Science Computer Engineering__, Pennsylvania State University, Dean's List, 2009
 
 # Skills & Technology
-**Languages**|**Frameworks**|**Style/Markup**|**Libraries**|**Servers**|**Data**|**Tools**
+**Languages**|**Frameworks**|**Styling**|**Libraries**|**Tools**|**Skills**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-__JavaScript__|__ReactJS__|__styled-components__|Google Maps|Node.js|JSON|git
-__HTML5__|__Next.js__|__JSX__|axios|Docker|GraphQL|npm & yarn
-__CSS3__|Express|PostCSS|react-intl|Linux(Debian)|AJAX|webpack
-TypeScript|AngularJS (2/4/5)|Sass|Underscore.js|FreeBSD|REST|babel
-CoffeeScript|Angular (1.x)|Stylus|Redux|nginx|WebSocket|jest
-Python| MVC|Material-UI|jQuery & plugins| |MongoDB|Cypress
-|  ||Fontello|Sortable| |SQL|CircleCI
-| | | |Socket.IO| | |Storybook
-| | | | | | |vim & emacs
+JavaScript|ReactJS|CSS3|react-intl|git|Code Reviews
+TypeScript|Next.js|styled-components|Google Maps SDK|Docker|Mentorship
+HTML5|Express|Sass|@apollo/client|jest|Planning
+CSS3|| | | |Estimation
 
-> Note: Skills & technology in __bold__ indicate higher level of proviciency.
+
 
 # Activities
- - Open Source Contibuter ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
- - ReactJS Meetup, 2015 - 2020
- - Node.js Meetup, 2013 - 2020
- - Angular.js Meetup, 2015 - 2018
+ - Open Source Contribution ([Mattermost Webapp](https://github.com/mattermost/mattermost-webapp)), April 2020
+
 
 <ins></ins>
 
