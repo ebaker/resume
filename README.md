@@ -60,7 +60,7 @@ I enjoy creating responsive web applications with an eye for design. You may oth
 
 # Skills & Technology
 **Languages**|**Frameworks**|**Styling**|**Libraries**|**Tools**|**Skills**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 JavaScript|ReactJS|CSS3|react-intl|git|Code Reviews
 TypeScript|Next.js|styled-components|Google Maps SDK|Docker|Mentorship
 HTML5|Express|Sass|@apollo/client|jest|Planning
