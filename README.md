@@ -1,5 +1,5 @@
 # Eliot Baker
-### Senior Front End Engineer
+### Senior Front End Software Engineer
 JavaScript • React • HTML5 • CSS3
 
 [eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
