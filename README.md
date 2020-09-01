@@ -1,5 +1,5 @@
 # Eliot Baker
-## Senior Front End Engineer
+### Senior Front End Engineer
 JavaScript • React • HTML5 • CSS3
 
 [eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/resume/tree/yara-2020-test-table) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
