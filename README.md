@@ -2,9 +2,9 @@
 ### Senior Front End Engineer
 JavaScript • React • HTML5 • CSS3
 
-[eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/resume/tree/yara-2020-test-table) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
+[eliotbaker.com](https://www.eliotbaker.com) • [github.com/ebaker](https://github.com/ebaker/) • [contact@eliotbaker.com](mailto:contact@eliotbaker.com)
 
-I enjoy creating responsive web applications with an eye for design. You may otherwise find me brewing a cup of tea or stretching out in downward dog.
+I enjoy creating responsive web applications with an eye for design while empowering my team's best practices. You may otherwise find me brewing a cup of tea or stretching out in a yoga pose.
 
 ## Experience
 
