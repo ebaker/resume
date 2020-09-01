@@ -9,7 +9,7 @@ I enjoy creating responsive web applications with an eye for design while empowe
 ## Experience
 
 ### Senior Front End Software Engineer ([Yara, Inc.](http://www.yara.com/)) San Francisco, 2018 - 2020
-> Yara Digital Farming is a division that develops software to empower farmers & agriculture to optimize farming practices to increase yields, crop quality, & income in a sustainable way.
+> Yara Digital Farming develops software to optimize farming practices increasing yields, crop quality, & income in a sustainable way.
 
 - Delivered mock to feature responsive UI components for payments in 2 Yara products with internationalization supporting 7 languages across 5 countries.
 - Developed field boundary creation component with editable field boundary populated from GeoJSON GIS dataset.
