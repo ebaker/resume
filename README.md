@@ -12,13 +12,12 @@ I enjoy creating responsive web applications with an eye for design while empowe
 > Yara Digital Farming develops software to optimize farming practices increasing yields, crop quality, & income in a sustainable way.
 
 - Delivered mock to feature responsive UI components for payments in 2 Yara products with internationalization supporting 7 languages across 5 countries.
-- Developed field boundary creation component with editable field boundary populated from GeoJSON GIS dataset.
+- Developed field boundary creation component with editable field boundary populated by GeoJSON GIS dataset.
 - Led the process to define sprint planning, organization, & releases for team of 4 engineers with asynchronous standups.
+- Scoped, planned, & released features with design, back end, & product.
 - Reviewed domestic & international team code submissions while collaborating on best coding practices.
 - Presented platform concepts to internal teams & conducted brownbag sessions on technologies & patterns.
-- Researched & evaluated emerging technologies for relevance in current project requirements & scope regularly.
-- Created Docker image to migrate backend service previously running on AWS EC2.
-- Created integration tests for platform payments utilizing __Cypress__.
+- Created Docker image to migrate back end service previously running on AWS EC2.
 - Developed features leveraging __Next.js__, __React (with Hooks)__, __Google Maps__, __GraphQL__, __HTML__, __CSS__ via __styled-components__, & __Express.js__.
 
 ### Front End Software Engineer ([OpsClarity](http://www.opsclarity.com) acquired by [Lightbend](http://www.lightbend.com)) San Francisco, 2015 - 2018
